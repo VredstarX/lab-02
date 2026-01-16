@@ -13,5 +13,5 @@ N/A
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `N/a`        | `N/a`     |
+| `N/a`        | `N/a`     |
